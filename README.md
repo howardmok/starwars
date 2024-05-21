@@ -7,7 +7,7 @@ The packages installed in this project are:
 - Prettier
 - Use Debounce
 
-npm install should install all of these after cloning the repo.
+`npm install` should install all of these after cloning the repo.
 
 ### `npm start`
 
@@ -23,7 +23,12 @@ This app takes advantage of the SWAPI's search parameter/functionality. Each res
 
 ### Examples
 
-``-> 82 results, all characters`A New Hope`-> 18 results, 18 characters`Death Star`-> 0 results, no pilots`Sand Crawler`-> 0 results, no pilots`Wookie`-> 2 results, 2 wookies`Tatooine` -> 10 reults, 10 people from the planet
+- ``-> 82 results, all characters`
+- `A New Hope`-> 18 results, 18 characters
+- `Death Star`-> 0 results, no pilots
+- `Sand Crawler`-> 0 results, no pilots
+- `Wookie`-> 2 results, 2 wookies
+- `Tatooine` -> 10 reults, 10 people from the planet
 
 ### Thoughts for high volume cases
 
